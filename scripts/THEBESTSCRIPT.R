@@ -6,6 +6,19 @@ ZZZzz /,`.-'`'    -.  ;-;;,_
     '---''(_/--'  `-'\_)  
 
 
+MOOOoosee!
+  
+/   \          /   \
+\_   \        /  __/
+ _\   \      /  /__
+ \___  \____/   __/
+     \_       _/
+       | @ @  \_
+       |
+     _/     /\
+    /o)  (o/\ \_
+    \_____/ /
+      \____/
 
 #Open the raw data
 data=read.csv("data/raw/Example.csv",header=T)
