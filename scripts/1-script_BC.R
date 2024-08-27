@@ -1,3 +1,5 @@
+# Hi Barbara
+
 #Open the raw data
 data=read.csv("data/raw/Example.csv",header=T)
 
